@@ -3,6 +3,7 @@
 A sustainable e-commerce platform designed to promote eco-friendly products and practices. This project leverages modern web technologies to provide a seamless shopping experience while emphasizing environmental responsibility.
 
 ---
+![Watch the demo](https://drive.google.com/file/d/1DaBeMogxqvIaefJIFMBSSOi0y695dJzP/view?usp=drive_link)
 
 ## ✅ Features
 
